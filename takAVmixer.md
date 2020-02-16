@@ -1,5 +1,9 @@
 # takAVmixer
 
+<div align="cneter">
+  <img src="image/takAVmixer.jpg" title="block">
+</div>
+
 ## 仕様
 
 詳細仕様は非公開
@@ -201,4 +205,6 @@ http://akizukidenshi.com/catalog/g/gP-09536/))
 
 ## 写真
 
-
+<div align="cneter">
+  <img src="image/internal.png" title="block">
+</div>
