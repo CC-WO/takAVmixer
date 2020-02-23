@@ -219,6 +219,21 @@ takAVmixerは光デジタルオーディオ用のミキサーである.
 
 ## 写真
 
-<div align="cneter">
-  <img src="image/internal.png" title="block">
-</div>
+- 内部
+
+    <div align="cneter">
+      <img src="image/internal.png" title="block">
+    </div>
+
+- 基板上面
+
+    <div align="cneter">
+      <img src="image/brd_top.png" title="block">
+    </div>
+
+- 基板下面
+
+    <div align="cneter">
+      <img src="image/brd_bottom.png" title="block">
+    </div>
+
