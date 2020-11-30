@@ -60,7 +60,7 @@ takAVmixerは光デジタルオーディオ用のミキサーである.
         - 光→アナログ：市販品使用：[URL](https://www.amazon.co.jp/dp/B00GIHV8G4/)
         - アナログ→光：市販品使用：[URL](https://www.amazon.co.jp/dp/B00W9NBDZM/)
       - オーディオ加算回路
-        - 参考：[LINK](https://www.zea.jp/audio/schematic/sc_file/026.htm)
+        - 参考：[URL](https://www.zea.jp/audio/schematic/sc_file/026.htm)
         - 入力段LPF：fc=5Hzで設計
     - ノンプログラミング
       - プログラミングの要素はなくす
