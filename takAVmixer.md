@@ -57,8 +57,8 @@ takAVmixerは光デジタルオーディオ用のミキサーである.
 2. 2019/5/24-6/23 @電子ライダーさんと設計仕様作成
     - アナログ部
       - 光音声の合成は, アナログでやることに決める
-        - 光→アナログ：市販品使用：[LINK](https://www.amazon.co.jp/dp/B00GIHV8G4/)
-        - アナログ→光：市販品使用：[LINK](https://www.amazon.co.jp/dp/B00W9NBDZM/)
+        - 光→アナログ：市販品使用：[URL](https://www.amazon.co.jp/dp/B00GIHV8G4/)
+        - アナログ→光：市販品使用：[URL](https://www.amazon.co.jp/dp/B00W9NBDZM/)
       - オーディオ加算回路
         - 参考：[LINK](https://www.zea.jp/audio/schematic/sc_file/026.htm)
         - 入力段LPF：fc=5Hzで設計
@@ -70,7 +70,7 @@ takAVmixerは光デジタルオーディオ用のミキサーである.
     - 電源：5V ACアダプター
       - 基板内部
         - 5V→+-12V
-    - ケース：YM-200：[LINK](http://akizukidenshi.com/catalog/g/gP-09536/)
+    - ケース：YM-200：[URL](http://akizukidenshi.com/catalog/g/gP-09536/)
 3. 2019/6/30 @電子ライダーさん 回路図第一版完成
     - レビュー(LINE)
       - オーディオ加算回路：単電源(5V)から両電源(+-12V)に変更
