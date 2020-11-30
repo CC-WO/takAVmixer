@@ -10,7 +10,7 @@
 
 ## Features
 
-概要説明：[LINK](https://github.com/CC-WO/takAVmixer/blob/master/takAVmixer.md)
+概要説明：[URL](https://github.com/CC-WO/takAVmixer/blob/master/takAVmixer.md)
 
 ## Requirement
 
@@ -30,8 +30,8 @@ None
 
 ## Author
 
-- Auther:CCWO
-- E-mail:cc.ccwo.cc@gmail.com
+- Auther：CCWO
+- E-mail：cc.ccwo.cc@gmail.com
 
 ## License
 
